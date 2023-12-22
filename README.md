@@ -6,4 +6,4 @@
 ## A simple Contract which can be used for casting a vote. The contract is written in [Solidity](https://soliditylang.org/). 
 
 Etherium IDE used to build this contract :
-[remix.ethereum.org](https://remix.ethereum.org/)https://remix.ethereum.org/
+[remix.ethereum.org](https://remix.ethereum.org/)
