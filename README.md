@@ -3,4 +3,7 @@
 
 ### This is my attempt at learning Web3.
 
-## This is a simple Contract which can be used for casting a vote. The contract is written in Solidity. 
+## A simple Contract which can be used for casting a vote. The contract is written in [Solidity](https://soliditylang.org/). 
+
+Etherium IDE used to build this contract :
+[remix.ethereum.org](https://remix.ethereum.org/)https://remix.ethereum.org/
